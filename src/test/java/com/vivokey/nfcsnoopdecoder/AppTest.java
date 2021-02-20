@@ -1,4 +1,4 @@
-package com.vivokey.nfcsnoop-decoder;
+package com.vivokey.nfcsnoopdecoder;
 
 import static org.junit.Assert.assertTrue;
 
